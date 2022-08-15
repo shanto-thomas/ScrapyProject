@@ -1,0 +1,22 @@
+[
+{"name": "smartphones", "status": "CATEGORY"},
+{"name": "laptops", "status": "CATEGORY"},
+{"name": "fragrances", "status": "CATEGORY"},
+{"name": "skincare", "status": "CATEGORY"},
+{"name": "groceries", "status": "CATEGORY"},
+{"name": "home-decoration", "status": "CATEGORY"},
+{"name": "furniture", "status": "CATEGORY"},
+{"name": "tops", "status": "CATEGORY"},
+{"name": "womens-dresses", "status": "CATEGORY"},
+{"name": "womens-shoes", "status": "CATEGORY"},
+{"name": "mens-shirts", "status": "CATEGORY"},
+{"name": "mens-shoes", "status": "CATEGORY"},
+{"name": "mens-watches", "status": "CATEGORY"},
+{"name": "womens-watches", "status": "CATEGORY"},
+{"name": "womens-bags", "status": "CATEGORY"},
+{"name": "womens-jewellery", "status": "CATEGORY"},
+{"name": "sunglasses", "status": "CATEGORY"},
+{"name": "automotive", "status": "CATEGORY"},
+{"name": "motorcycle", "status": "CATEGORY"},
+{"name": "lighting", "status": "CATEGORY"}
+]
